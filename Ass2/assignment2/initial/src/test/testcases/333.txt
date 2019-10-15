@@ -1,0 +1,12 @@
+
+           void printBinaryNumber(int a)
+           {
+                if (a == 0)
+                    return;
+                else
+                {
+                    printBinaryNumber(a/2);
+                    print("%d",a%2);
+                }
+           }
+        

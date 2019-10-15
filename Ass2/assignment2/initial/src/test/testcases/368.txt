@@ -1,0 +1,11 @@
+
+        void decreaseKey(int i, int new_val) 
+        { 
+	        harr[i] = new_val; 
+	        do
+	        { 
+	            swap(harr[i], harr[parent(i)]); 
+	            i = parent(i); 
+	        } while (i != 0 && harr[parent(i)] > harr[i]) ;
+        } 
+        

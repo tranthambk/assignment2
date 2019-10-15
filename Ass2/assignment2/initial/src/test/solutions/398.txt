@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(gcd),[VarDecl(x,IntType),VarDecl(y,IntType)],IntType,Block([If(BinaryOp(==,Id(x),IntLiteral(0)),Return(Id(y)),If(BinaryOp(<,Id(x),IntLiteral(0)),Return(CallExpr(Id(gcd),[UnaryOp(-,Id(x)),Id(y)])),If(BinaryOp(<,Id(y),IntLiteral(0)),Return(UnaryOp(-,CallExpr(Id(gcd),[Id(x),UnaryOp(-,Id(y))]))),Return(CallExpr(Id(gcd),[BinaryOp(%,Id(y),Id(x)),Id(x)])))))]))])

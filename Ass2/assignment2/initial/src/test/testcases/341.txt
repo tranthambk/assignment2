@@ -1,0 +1,7 @@
+
+        float[] foo(int a)
+        {
+            int x;
+            foo(2,true)[3+x] = a[b[2]];
+        }
+        

@@ -1,0 +1,6 @@
+
+          int foo(int a)
+        {
+            i = foo(2, foo(3,a[2]));
+        }
+        

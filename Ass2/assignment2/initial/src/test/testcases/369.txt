@@ -1,0 +1,19 @@
+
+        int extractMin() 
+        { 
+	        if (heap_size <= 0) 
+		            return INT_MAX; 
+	        if (heap_size == 1) 
+	        { 
+		        heap_size=heap_size-1; 
+		        return harr[0]; 
+	        } 
+
+	        int root ;root= harr[0]; 
+	        harr[0] = harr[heap_size-1]; 
+	        heap_size=heap_size-1; 
+	        MinHeapify(0); 
+
+	        return root; 
+        } 
+        

@@ -1,0 +1,6 @@
+
+        int main(string u)
+        {
+            a[b[c[d[e[4]]]]]=0;
+        }
+        

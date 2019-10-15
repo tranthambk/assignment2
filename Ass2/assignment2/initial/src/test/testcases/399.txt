@@ -1,0 +1,14 @@
+
+        int giai_thua(int n){
+            if (n<=1) 
+                return 1;
+            else 
+                return n*giai_thua(n-1);
+        }
+        int main() {
+            int a,b,c;
+            float ku;
+            a = 4;
+            print(giai_thua(a));
+        }
+        

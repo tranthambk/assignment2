@@ -1,0 +1,7 @@
+
+        int foo()
+        {
+            for(i = 1;(i<3+4)&&(i>=-4);i=i+1)
+                print("Khong biet");
+        }
+        

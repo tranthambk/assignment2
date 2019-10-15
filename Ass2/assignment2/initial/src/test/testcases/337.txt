@@ -1,0 +1,6 @@
+
+          int main()
+        {
+            khong_bit = (a+b)[2];
+        }
+        

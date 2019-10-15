@@ -1,0 +1,6 @@
+
+        int main(string u)
+        {
+            foo(foo(foo(foo(foo()))));
+        }
+        

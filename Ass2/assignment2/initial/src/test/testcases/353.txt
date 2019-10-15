@@ -1,0 +1,10 @@
+
+        void main()
+        {
+            //Some calculation for solving the logic equation
+            A&&(!A||B) = A&&B;
+            (A||B)&&(A||!B)= A;
+            A || B&&C = (A||B)&&(A||C);
+            A&&B || !A&&C || B&&C=A&&B || !A&&C(A||B)&&(!A||C)&&(B||C)=(A||B)&&(!A||C);
+            return;
+        }

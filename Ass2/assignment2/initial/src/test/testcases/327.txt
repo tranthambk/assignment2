@@ -1,0 +1,9 @@
+
+            string tich(){
+                int n;
+                n = -1;
+                do
+                    n=n+1;
+                while (n > 1);
+            }
+        

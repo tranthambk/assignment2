@@ -1,0 +1,8 @@
+
+           int a;
+           float b;
+           string c;
+           boolean foo(){}
+           string foo1(){}
+           int foo2(int a[], float b){}
+        

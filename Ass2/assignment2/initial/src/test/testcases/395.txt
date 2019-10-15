@@ -1,0 +1,9 @@
+
+        //find sum of numbers in range [a,b] by using recursive
+        int sum(int a, int b)
+        {
+            if (a > b)
+                return 0;
+            return a+sum(a+1,b);
+        }
+        

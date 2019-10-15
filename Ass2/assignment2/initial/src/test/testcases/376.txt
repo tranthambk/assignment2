@@ -1,0 +1,15 @@
+
+        // Function to find the root 
+        void newtonRaphson(float x) 
+        { 
+            float h ;
+            h = func(x) / derivFunc(x); 
+            do
+            { 
+                h = func(x)/derivFunc(x); 
+                x = x - h; 
+            } while (abs(h) >= EPSILON);
+  
+            print("The value of the root is : ",x); 
+        } 
+        

@@ -1,0 +1,14 @@
+
+            int foo(){
+                if (a == b)
+                    max >= 6;
+                else 
+                {
+                    x = 4;
+                    {
+                        int a;
+                        a = 6;
+                    }
+                }
+            }
+        

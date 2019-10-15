@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo),[VarDecl(a,BoolType),VarDecl(b,ArrayTypePointer(IntType))],ArrayTypePointer(BoolType),Block([]))])

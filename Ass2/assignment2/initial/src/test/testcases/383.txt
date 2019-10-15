@@ -1,0 +1,16 @@
+
+        float func(float x) 
+        { 
+            return x*x*x - x*x + 2; 
+        } 
+        float derivFunc(float x) 
+        { 
+            return 3*x*x - 2*x; 
+        }  
+        int main() 
+        { 
+            float x0; x0= -20; 
+            newtonRaphson(x0); 
+            return 0; 
+        } 
+        

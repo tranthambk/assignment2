@@ -1,0 +1,15 @@
+
+        int a;
+        float b;
+        string c;
+        boolean d(){}
+        int e(float f[]) {}
+        string[] g(boolean h[]){}
+        int i(float j[]){}
+        int k;
+        float l;
+        string m;
+        boolean n;
+        int[] o(float p, string q[], boolean r){}
+        int   s(string t[], boolean u[], float v){}
+        float w(int x, string y[], boolean z){}

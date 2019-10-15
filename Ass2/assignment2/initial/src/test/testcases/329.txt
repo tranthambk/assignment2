@@ -1,0 +1,17 @@
+
+            int a[3];
+            boolean foo1()
+            {
+                int n;
+                int m;
+                float b[19];
+                n = 10;
+                do 
+                    m = 10;
+                    do
+                        b[m] = m;
+                        m = m-1;
+                    while (m>1);
+                while (n>1);
+            }
+        

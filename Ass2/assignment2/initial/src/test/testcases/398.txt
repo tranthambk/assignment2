@@ -1,0 +1,8 @@
+
+        int gcd(int x, int y){
+            if (x==0) return y;
+            else if (x<0) return gcd(-x,y);
+            else if (y<0) return -gcd(x,-y);
+            else return gcd(y%x,x);
+        }
+        

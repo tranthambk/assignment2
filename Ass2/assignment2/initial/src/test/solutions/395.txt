@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(sum),[VarDecl(a,IntType),VarDecl(b,IntType)],IntType,Block([If(BinaryOp(>,Id(a),Id(b)),Return(IntLiteral(0))),Return(BinaryOp(+,Id(a),CallExpr(Id(sum),[BinaryOp(+,Id(a),IntLiteral(1)),Id(b)])))]))])

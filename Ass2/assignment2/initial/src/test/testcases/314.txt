@@ -1,0 +1,7 @@
+
+            float foo(int a[], float b){
+                string a,b,c;
+                float cbp[4];
+                boolean a;
+                }
+        

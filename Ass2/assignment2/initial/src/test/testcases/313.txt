@@ -1,0 +1,6 @@
+
+            int[] foo(int a[]){
+                boolean a[5],b; 
+                float c;
+            }
+        

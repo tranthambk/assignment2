@@ -1,0 +1,8 @@
+
+           float main()
+        {
+             /*comment vui lam*/
+             //tui vui lam chu bu 
+             print("hahahaha!!!!!!");
+        }
+        

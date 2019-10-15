@@ -1,0 +1,7 @@
+
+          int foo(int a)
+        {
+            int a[4];
+            a[2] = foo(a+2)[2]-4+8;
+        }
+        
