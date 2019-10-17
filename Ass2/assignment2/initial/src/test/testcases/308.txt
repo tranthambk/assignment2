@@ -1,3 +1,4 @@
-
-            string foo(boolean a[],int b[]){}
+ int main(int a,float b){
+            double(2);
+        }
         
