@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(printBinaryNumber),[VarDecl(a,IntType)],VoidType,Block([If(BinaryOp(==,Id(a),IntLiteral(0)),Return(),Block([CallExpr(Id(printBinaryNumber),[BinaryOp(/,Id(a),IntLiteral(2))]),CallExpr(Id(print),[StringLiteral(%d),BinaryOp(%,Id(a),IntLiteral(2))])]))]))])
+Program([FuncDecl(Id(main),[VarDecl(a,FloatType),VarDecl(b,ArrayTypePointer(FloatType)),VarDecl(c,ArrayTypePointer(FloatType)),VarDecl(d,FloatType),VarDecl(e,ArrayTypePointer(FloatType))],IntType,Block([]))])

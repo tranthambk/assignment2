@@ -1,10 +1,6 @@
-
-        void main()
-        {
-            //Some calculation for solving the logic equation
-            A = A &&(A||B);
-            A = A || A&&B;
-            A = A && B || A && !B;
-            A || B = A || !A&&B;
-            return;
-        }
+int main()
+		{
+            if (number%2) return;
+            else numberToBin(number);
+		}
+		

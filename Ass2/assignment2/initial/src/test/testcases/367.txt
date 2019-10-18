@@ -1,20 +1,7 @@
-
-        int parent(int i) { return (i-1)/2; } 
-	    int left(int i) { return (2*i + 1); } 
-	    int right(int i) { return (2*i + 2); } 
-	    int getMin() { return harr[0]; }    
-        void insertKey(int k) 
-        { 
-	        if (heap_size == capacity) return; 
-
-	        heap_size=heap_size+1; 
-	        int i ;i= heap_size - 1; 
-	        harr[i] = k; 
-
-	        do
-	        { 
-	            swap(harr[i], harr[parent(i)]); 
-	            i = parent(i); 
-	        } while(i != 0 && harr[parent(i)] > harr[i]) ;
-        } 
-        
+int main()
+		{
+			for (i = 4; i < 5; i +2 ){
+                if (a = 5) false;
+            }
+		}
+		

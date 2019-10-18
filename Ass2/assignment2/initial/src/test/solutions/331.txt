@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(foo),[],BoolType,Block([VarDecl(i,IntType),For(BinaryOp(=,Id(i),IntLiteral(0));BooleanLiteral(true);BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));Block([If(BinaryOp(>,Id(i),IntLiteral(100)),Break())]))]))])
+Program([FuncDecl(Id(main),[VarDecl(a,IntType),VarDecl(b,ArrayTypePointer(IntType)),VarDecl(c,ArrayTypePointer(IntType)),VarDecl(d,IntType),VarDecl(e,ArrayTypePointer(IntType))],IntType,Block([]))])

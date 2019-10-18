@@ -1,12 +1,2 @@
-
-           int foo(float i)
-           {
-               if (i<10)
-                    return 0;
-                else
-                    if (i<100)
-                        return 10+(i/2+3);
-                    else 
-                        return (a&&b) || (a >= b) || (-10 > a) || !(a&&1); 
-           }
-        
+int main(string a,string b){}
+		

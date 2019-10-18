@@ -1,20 +1,26 @@
 
-        int main()
-        {
-  
-            int year ;year = 0; 
-            int month ;month= 0;
-            int ret ;ret= 0; 
-            printf("\n Enter the year: = "); scanf("%d",year);
-            printf("\n Enter the month: = ");scanf("%d",month);
-            ret = numberDays(month,year); 
-            if(0 == ret)
-            {
-  	            printf("\n Enter valid month and year");
-  	            return 0;
-            }
-  
-            printf("\n Number of days  = %d",ret);	
-            return 0;
-        }
-        
+		boolean xyzz()
+		{   
+			float xyzz,abcc,hcmut;
+			int xyzz[999],abcc[999],hcmut,apple,NHMR;
+			boolean xyzz[999],abcc[999],hcmut[999],apple[999],NHMR[999];
+			string xyzz,xyzz[999],abcc,abcc[999],hcmut,hcmut[999],apple,apple[999],NHMR,NHMR[999];
+			float xyzz,abcc,hcmut;
+			int xyzz[999],abcc[999],hcmut,apple,NHMR;
+			boolean xyzz[999],abcc[999],hcmut[999],apple[999],NHMR[999];
+			string xyzz,xyzz[999],abcc,abcc[999],hcmut,hcmut[999],apple,apple[999],NHMR,NHMR[999];
+		}   
+
+
+		boolean[] xyzz()
+		{
+			float xyzz,abcc,hcmut;
+			int xyzz[999],abcc[999],hcmut,apple,NHMR;
+			boolean xyzz[999],abcc[999],hcmut[999],apple[999],NHMR[999];
+			string xyzz,xyzz[999],abcc,abcc[999],hcmut,hcmut[999],apple,apple[999],NHMR,NHMR[999];
+			float xyzz,abcc,hcmut;
+			int xyzz[999],abcc[999],hcmut,apple,NHMR;
+			boolean xyzz[999],abcc[999],hcmut[999],apple[999],NHMR[999];
+			string xyzz,xyzz[999],abcc,abcc[999],hcmut,hcmut[999],apple,apple[999],NHMR,NHMR[999];
+		}
+		

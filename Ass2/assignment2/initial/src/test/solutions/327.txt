@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(tich),[],StringType,Block([VarDecl(n,IntType),BinaryOp(=,Id(n),UnaryOp(-,IntLiteral(1))),Dowhile([BinaryOp(=,Id(n),BinaryOp(+,Id(n),IntLiteral(1)))],BinaryOp(>,Id(n),IntLiteral(1)))]))])
+Program([FuncDecl(Id(enter),[],BoolType,Block([])),FuncDecl(Id(main),[],IntType,Block([]))])

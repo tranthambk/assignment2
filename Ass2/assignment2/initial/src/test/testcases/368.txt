@@ -1,11 +1,16 @@
+int main()
+		{
+			for(a[2]; i < 2; i = a[2] + 1) 
+            {
+                b = a + 1;
+                foo(3);
+                for(t; true; abc) ahihi(21);
+            }
 
-        void decreaseKey(int i, int new_val) 
-        { 
-	        harr[i] = new_val; 
-	        do
-	        { 
-	            swap(harr[i], harr[parent(i)]); 
-	            i = parent(i); 
-	        } while (i != 0 && harr[parent(i)] > harr[i]) ;
-        } 
-        
+            for(i + 3 + a[2]; bcd < 2; a[b] = a[foo(2)]) {
+                bcd = bcd + 1;
+            }
+
+            for(true;true;false) a = 6 <= b;
+		}
+		

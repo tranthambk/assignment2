@@ -1,15 +1,12 @@
 
-        int gcd(int a, int b){
-            if (a == 0 || b == 0){
-                    return a + b;
-            }
-            do{
-                if (a > b){
-                    a = a - b; 
-                }else{
-                    b = b - a;
-                }
-            }while (a != b);
-            return a; 
-        }
-        
+		int main()
+		{
+			float x,y,z;
+			_();
+			_();
+			_();
+			_();
+			string b,c[123],d,e[1234534];
+			boolean b,c[123],d,e[1234534];
+		}
+		

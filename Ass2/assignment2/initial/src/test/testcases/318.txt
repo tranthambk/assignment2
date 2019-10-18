@@ -1,14 +1,8 @@
 
-            int foo(){
-                if (b>a)
-                {
-                    x = y + 1;
-                    y = 5 + 1;
-                }           
-                else 
-                {
-                    x = y * 2;
-                    y = 6 * 3;
-                }
-            }
-        
+		int main()
+		{
+			float x,y,z;
+			string b,c[123],d,e[1234534];
+			boolean b,c[123],d,e[1234534];
+		}
+		

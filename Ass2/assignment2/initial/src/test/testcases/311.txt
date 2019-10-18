@@ -1,8 +1,23 @@
 
-           int a;
-           float b;
-           string c;
-           boolean foo(){}
-           string foo1(){}
-           int foo2(int a[], float b){}
-        
+		int print()
+		{	
+		}	
+	
+
+		void join()
+		{
+		}
+
+		int enter()
+		{	
+		}	
+	
+
+		int main()
+		{
+			int a,b,c;
+			float x,y,z;
+			string b,c[123],d,e[1234534];
+			boolean b,c[123],d,e[1234534];
+		}
+		

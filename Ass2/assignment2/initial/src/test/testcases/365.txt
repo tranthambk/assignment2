@@ -1,13 +1,5 @@
-
-        void quickSort(int arr[], int low, int high) 
-        { 
-            if (low < high) 
-            { 
-                int pi ;pi= partition(arr, low, high); 
-  
-        
-                quickSort(arr, low, pi - 1); 
-                quickSort(arr, pi + 1, high); 
-            } 
-        } 
-        
+int main()
+		{
+           	for (i = 4; i <5; i = i+2) if (x == 2) x= 3;
+		}
+		

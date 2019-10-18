@@ -1,8 +1,5 @@
-
-        int main()
-        {
-             foo(2)+foo()-a[2]*foo((((2+3)-4)/7)-9,0.0,9.7);
-            -!a[2] + a(a(a(a(2))))[2] - a / a * a % (a < a) + (a <= a) + (a >= a) + ((a > a) == a) + (a != a) && a || a = a;
-            (((6)));
-        }
-        
+int main (int b,int c[]) {
+                        int a; float a;
+                             int c;
+                        }
+		

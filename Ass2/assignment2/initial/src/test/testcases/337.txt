@@ -1,6 +1,2 @@
-
-          int main()
-        {
-            khong_bit = (a+b)[2];
-        }
-        
+int main(boolean a,boolean b[],boolean c[],boolean d,boolean e[]){}
+		

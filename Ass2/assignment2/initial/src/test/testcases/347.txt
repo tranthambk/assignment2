@@ -1,7 +1,4 @@
-
-        int main()
-        {
-            boolean b;
-            b = true && "string" || false == (1e6 - 3);
-        }
-        
+int main () {
+                     int a, b, c;
+                   }
+		

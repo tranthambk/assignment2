@@ -1,7 +1,2 @@
-
-          int foo(int a)
-        {
-            a=b=c=3;
-            a=a&&b||c;
-        }
-        
+int main(int a,float b[],string c,boolean d[]){}
+		

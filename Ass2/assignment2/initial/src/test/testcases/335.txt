@@ -1,8 +1,2 @@
-
-           float main()
-        {
-             /*comment vui lam*/
-             //tui vui lam chu bu 
-             print("hahahaha!!!!!!");
-        }
-        
+int main(string a,string b[],string c[],string d,string e[]){}
+		

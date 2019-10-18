@@ -1,14 +1,2 @@
-
-            int[] foo(int a)
-            {
-                int n;
-                for (n = 0; true; n = n+1)
-                {
-                    if (n>100)
-                        break;
-                    else
-                        if (n%2==0 || n%5==0)
-                            continue;
-                }
-            }
-        
+int main(float a,float b){}
+		

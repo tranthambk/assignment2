@@ -1,6 +1,7 @@
 
-        int main(string u)
-        {
-            a[b[c[d[e[4]]]]]=0;
-        }
-        
+		int main(){}
+
+		void main(int a[],float b,string c[],boolean d){}
+	
+		int main(){}
+		

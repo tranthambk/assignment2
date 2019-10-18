@@ -1,17 +1,5 @@
 
-            boolean foo(){
-                int n;
-                n = 0;
-               do 
-                {
-                    print("tui khong biet gi het");
-                    {
-                        {
-                            print("Tui la ai");
-                        }
-                    }
-                }
-                n = n -1;
-               while (n>=-10);
-            }
-        
+		float enter(){}
+
+		int main(){}
+		

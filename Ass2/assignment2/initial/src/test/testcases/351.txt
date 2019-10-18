@@ -1,5 +1,7 @@
-
-            int foo(){
-                a = 3 + call[3];
+int main()
+		{
+			if (a > 3) {
+                a >= 4;
             }
-        
+		}
+		

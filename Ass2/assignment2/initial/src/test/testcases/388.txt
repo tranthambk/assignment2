@@ -1,10 +1,10 @@
-
-        int max(int a[], int n)
-        {
-            int max ;max = a[0];
-            int i;
-            for (i = 1; i < n; i=i+1)
-                if (max < a[i]) max = a[i];
-            return max;
-        }
-        
+int main()
+		{
+			int a,b,c;
+			do
+				yolo();
+				haveGirlfriends(_,_,_,_,_);
+				{{}{}{}{}{}{}{{{{{}}}}}{}{}}
+			while (young);
+		}
+		

@@ -1,6 +1,2 @@
-
-           int main(string u)
-        {
-            a = 7+8>=9+10-90--20+0;
-        }
-        
+int main(boolean a,boolean b){}
+		

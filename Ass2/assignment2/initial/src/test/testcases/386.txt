@@ -1,11 +1,35 @@
 
-        int Sin(int x){
-            int t,sum,n;
-            n = 1000;
-            for(i=1;i<=n;i=i+1)
-            {
-                t=(t*(-1)*x*x)/(2*i*(2*i+1));
-                sum=sum+t;
-            }
-        }
-        
+		int print()
+		{	
+		}	
+	
+
+		void join()
+		{
+		}
+
+		int enter()
+		{	
+		}	
+	
+
+		int main()
+		{
+			for(thanos;captainAmerica;ironMan) 
+			{
+				sherlock(watson);
+				do
+				{
+					for(exp;exp;exp)
+					{
+						for(exp;exp;exp)
+						{
+							sherlock(watson);
+						}
+						{{{}}{{}}{{}}{{}}{{}}{{}}{{}}}
+					}
+				}
+				while (spiderman);
+			}
+		}
+		

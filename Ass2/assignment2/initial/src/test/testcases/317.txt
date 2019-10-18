@@ -1,11 +1,2 @@
-
-            int foo(){
-                if (b>a)
-                    if (b>c)
-                        {
-                            max = b;
-                        }
-                else 
-                    max = b;           
-            }
-        
+int b(){}
+		

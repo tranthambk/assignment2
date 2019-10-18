@@ -1,7 +1,5 @@
-
-        void main()
-        {
-            Y = A&&B&&C || A&&B&&!C || A&&!B&&C;
-            Y = A&&(B||C);
-            return;
-        }
+int main()
+		{
+            if (true) a = b;
+		}
+		

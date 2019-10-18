@@ -1,7 +1,2 @@
-
-          int foo(int a)
-        {
-            int a[4];
-            a[2] = foo(a+2)[2]-4+8;
-        }
-        
+int main(int a[],float b[],string c[],boolean d[]){}
+		

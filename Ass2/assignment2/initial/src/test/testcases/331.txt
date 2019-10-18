@@ -1,11 +1,2 @@
-
-            boolean foo()
-            {
-                int i;
-                for (i = 0;true;i=i+1)
-                    {
-                        if (i>100)
-                            break;
-                    }
-            }
-        
+int main(int a,int b[],int c[],int d,int e[]){}
+		

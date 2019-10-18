@@ -1,10 +1,5 @@
 
-            boolean test()
-            {
-                boolean b;
-                b = ((a&&b)
-                    ||(a>=c)
-                    ||(d==e)
-                    ||(a!=3));
-           }
-        
+		int main(int a[],float b[],string c[],boolean d[]){}
+
+		int main(int a,float b,string c,boolean d){}
+		

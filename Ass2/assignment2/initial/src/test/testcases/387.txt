@@ -1,23 +1,30 @@
 
-        int xor(int a,int b)
-        {
-            return (!a && b) || (a && !b);
-        }
+		int print()
+		{	
+			string b,c[123],d,e[1234534];
+		}	
+	
 
-        int min(int x, int y) 
-        { 
-            return xor(y,(xor(x,y) && -(x < y))); 
-        } 
+		void join()
+		{
+			int a,b,c;
+		}
 
-        int max(int x, int y) 
-        { 
-            return xor(x,(xor(x,y) && -(x < y)));  
-        } 
-        int main() 
-        { 
-            int x ; x = 15; 
-            int y ; y = 6; 
-            printf("Minimum of ",x," and ",y," is ",min(x,y)); 
-            printf("Maximum of ",x," and ",y," is ",max(x,y)); 
-        } 
-        
+		void fit()
+		{
+			int a,b,c;
+		}
+
+		int enter()
+		{	
+			{}{}{}{}{}{}{}{}{}{}{}{}{}
+			{{{{{{{}}}}}}}
+		}	
+	
+
+		int main()
+		{
+			boolean b,c[123],d,e[1234534];
+		}
+
+		

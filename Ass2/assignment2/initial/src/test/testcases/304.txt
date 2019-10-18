@@ -1,2 +1,2 @@
- string a,b,c[1];
-         
+boolean b,c[123],d,e[1234534];
+		

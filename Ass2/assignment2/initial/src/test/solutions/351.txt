@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(foo),[],IntType,Block([BinaryOp(=,Id(a),BinaryOp(+,IntLiteral(3),ArrayCell(Id(call),IntLiteral(3))))]))])
+Program([FuncDecl(Id(main),[],IntType,Block([If(BinaryOp(>,Id(a),IntLiteral(3)),Block([BinaryOp(>=,Id(a),IntLiteral(4))]))]))])

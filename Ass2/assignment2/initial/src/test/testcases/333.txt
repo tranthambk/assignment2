@@ -1,12 +1,2 @@
-
-           void printBinaryNumber(int a)
-           {
-                if (a == 0)
-                    return;
-                else
-                {
-                    printBinaryNumber(a/2);
-                    print("%d",a%2);
-                }
-           }
-        
+int main(float a,float b[],float c[],float d,float e[]){}
+		

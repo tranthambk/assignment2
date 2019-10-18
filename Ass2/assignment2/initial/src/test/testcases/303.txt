@@ -1,2 +1,2 @@
- float a,b,c[1];
-         
+string b,c[123],d,e[1234534];
+		

@@ -1,2 +1,2 @@
- int a,b,c[1];
-         
+float x,y[12],z;
+		

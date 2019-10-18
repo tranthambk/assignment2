@@ -1,29 +1,15 @@
 
-        int save;
-        float dump;
-        string str;
-        boolean isPrime(int num)
-        {
-            if((num <= 1) || (num % 2 ==0 && num != 2))
-                return false;
-            int square, i;
-            square = sqrt(num);
-            for (i=2;i<=square+1;i = i+1)
-             {
-                if (num % i == 0) return false;
-             }
-            return true;
-        }
-        int main()
-        {
-            scrand(time(0));
-            int a[100],i;
-            for (i=0;i<length(a);i=i+1)
-            {
-                a[i]=rand();
-                if (isPrime(a[i]))
-                 printf(a[i] + "\t");
-            }
-            return 1;
-        }
-        
+		void execution()
+		{
+			"Five final tests!!!!!!";
+			//Pass or die;
+			/*
+			{
+				"You will be sentenced to death if you treat me as a block!";
+			}
+			*/
+			{
+				"Hi hi, are you scared right now??????????";
+			}
+		}
+		

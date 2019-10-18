@@ -1,6 +1,7 @@
-
-            int[] foo(int a[]){
-                boolean a[5],b; 
-                float c;
-            }
-        
+int main()
+		{
+			int a,b,c;
+			int a,b,c;
+			int a,b,c;
+		}
+		

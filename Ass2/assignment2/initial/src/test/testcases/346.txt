@@ -1,6 +1,3 @@
-
-        int main()
-        {
-             1.34[2]+5 - 1e4[42]%1.e5;
+void foo(int x, int y, float z, string s[], int a[]) {
         }
-        
+		

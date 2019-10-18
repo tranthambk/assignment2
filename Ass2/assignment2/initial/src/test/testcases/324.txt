@@ -1,12 +1,9 @@
 
-            float foo(){
-                    for (i = 1; i>-10;i=i-1)
-                    {
-                        a = 3;
-                        {
-                            int b;
-                            b = 3;
-                        }
-                    }
-            }
-        
+		int main()
+		{
+			float x,y,z[43];
+			float x,y,z;
+			string b,c[123],d,e[1234534];
+			boolean b,c[123],d,e[1234534];
+		}
+		

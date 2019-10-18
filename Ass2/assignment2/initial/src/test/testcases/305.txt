@@ -1,3 +1,6 @@
- string a,b,c[1];
-        float a,b,c;
-         
+
+		string b,c[123],d,e[1234534];
+		boolean b,c[123],d,e[1234534];
+		int a,b,c;
+		float x,y,z;
+		

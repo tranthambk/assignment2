@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(foo),[],IntType,Block([For(BinaryOp(=,Id(i),IntLiteral(1));BinaryOp(&&,BinaryOp(<,Id(i),BinaryOp(+,IntLiteral(3),IntLiteral(4))),BinaryOp(>=,Id(i),UnaryOp(-,IntLiteral(4))));BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));CallExpr(Id(print),[StringLiteral(Khong biet)]))]))])
+Program([FuncDecl(Id(enter),[],StringType,Block([])),FuncDecl(Id(main),[],IntType,Block([]))])

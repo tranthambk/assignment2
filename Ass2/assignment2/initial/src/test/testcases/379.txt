@@ -1,19 +1,10 @@
 
-        int main()
-        {
-            int x, y;
- 
-            scanf("%d%d", x, y);
- 
-            printf("x = %d\ny = %d\n", x, y);
- 
-            x = xor(x,y);
-            y = xor(x,y);
-            x = xor(x,y);
- 
- 
-            printf("x = %d\ny = %d\n", x, y);
- 
-            return 0;
-        }
-        
+		float main(){
+			if(sky)
+				if(sea){}
+			else{earth;}
+			else{rain;}
+			if(light){}
+			else{dark;}
+		}
+		
